@@ -1,0 +1,68 @@
+[08:59:58] [ServerMain/INFO]: Building unoptimized datafixer
+[09:00:01] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[09:00:02] [Server thread/INFO]: Loading properties
+[09:00:03] [Server thread/INFO]: Default game type: SURVIVAL
+[09:00:04] [Server thread/INFO]: Generating keypair
+[09:00:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:00:06] [Server thread/INFO]: Using epoll channel type
+[09:00:07] [Server thread/INFO]: Preparing level "world"
+[09:00:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:00:15] [Server thread/INFO]: Time elapsed: 5231 ms
+[09:00:15] [Server thread/INFO]: Done (5.842s)! For help, type "help"
+[09:01:02] [User Authenticator #1/INFO]: UUID of player Steve is 8667ba71-b85a-4004-af54-457a9734eed7
+[09:01:03] [Server thread/INFO]: Steve[/127.0.0.1:53211] logged in with entity id 101 at (120.5, 64.0, -30.5)
+[09:01:05] [Server thread/INFO]: Steve joined the game
+[09:01:18] [Server thread/INFO]: <Steve> hello
+[09:01:28] [User Authenticator #2/INFO]: UUID of player Alex is ec561538-f3fd-461d-aff5-086b22154bce
+[09:01:29] [Server thread/INFO]: Alex[/127.0.0.1:53212] logged in with entity id 102 at (118.5, 64.0, -28.5)
+[09:01:31] [Server thread/INFO]: Alex joined the game
+[09:01:44] [Server thread/INFO]: <Alex> hi Steve
+[09:02:05] [User Authenticator #3/INFO]: UUID of player Herobrine is 11111111-2222-3333-4444-555555555555
+[09:02:06] [Server thread/INFO]: Herobrine[/127.0.0.1:53213] logged in with entity id 103 at (130.5, 70.0, -45.5)
+[09:02:07] [Server thread/INFO]: Herobrine joined the game
+[09:02:19] [Server thread/INFO]: <Herobrine> anyone mining?
+[09:02:33] [Server thread/INFO]: Steve fell from a high place
+[09:02:40] [User Authenticator #4/INFO]: UUID of player Notch is 069a79f4-44e9-4726-a5be-fca90e38aaf5
+[09:02:41] [Server thread/INFO]: Notch[/127.0.0.1:53214] logged in with entity id 104 at (140.5, 65.0, -20.5)
+[09:02:42] [Server thread/INFO]: Notch joined the game
+[09:03:01] [Server thread/INFO]: <Notch> nice spawn
+[09:03:16] [Server thread/INFO]: Alex was slain by Zombie
+[09:03:28] [User Authenticator #5/INFO]: UUID of player Dream is ffffffff-aaaa-bbbb-cccc-1234567890ab
+[09:03:29] [Server thread/INFO]: Dream[/127.0.0.1:53215] logged in with entity id 105 at (150.5, 66.0, -10.5)
+[09:03:31] [Server thread/INFO]: Dream joined the game
+[09:03:45] [Server thread/INFO]: <Dream> let's go explore
+[09:04:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09:04:18] [Server thread/INFO]: Herobrine left the game
+[09:04:24] [Server thread/INFO]: Steve was slain by Zombie
+[09:04:30] [Server thread/INFO]: <Steve> brb
+[09:04:36] [Server thread/INFO]: Steve left the game
+[09:04:42] [User Authenticator #6/INFO]: UUID of player Steve is 8667ba71-b85a-4004-af54-457a9734eed7
+[09:04:43] [Server thread/INFO]: Steve[/127.0.0.1:53216] logged in with entity id 106 at (121.5, 64.0, -29.5)
+[09:04:44] [Server thread/INFO]: Steve joined the game
+[09:04:58] [Server thread/INFO]: <Alex> I need food
+[09:05:07] [Server thread/INFO]: Notch fell from a high place
+[09:05:19] [Server thread/INFO]: Dream left the game
+[09:05:28] [Server thread/INFO]: <Steve> back
+[09:05:46] [User Authenticator #7/INFO]: UUID of player BuilderBob is 22222222-3333-4444-5555-666666666666
+[09:05:47] [Server thread/INFO]: BuilderBob[/127.0.0.1:53217] logged in with entity id 107 at (200.5, 70.0, 15.5)
+[09:05:48] [Server thread/INFO]: BuilderBob joined the game
+[09:06:03] [Server thread/INFO]: <BuilderBob> working on a house
+[09:06:21] [Server thread/INFO]: Alex left the game
+[09:06:38] [Server thread/INFO]: Notch left the game
+[09:06:55] [Server thread/INFO]: BuilderBob was slain by Zombie
+[09:07:09] [User Authenticator #8/INFO]: UUID of player Alex is ec561538-f3fd-461d-aff5-086b22154bce
+[09:07:10] [Server thread/INFO]: Alex[/127.0.0.1:53218] logged in with entity id 108 at (119.5, 64.0, -27.5)
+[09:07:11] [Server thread/INFO]: Alex joined the game
+[09:07:23] [Server thread/INFO]: <Alex> I'm back
+[09:07:39] [Server thread/INFO]: BuilderBob left the game
+[09:07:52] [User Authenticator #9/INFO]: UUID of player Dream is ffffffff-aaaa-bbbb-cccc-1234567890ab
+[09:07:53] [Server thread/INFO]: Dream[/127.0.0.1:53219] logged in with entity id 109 at (152.5, 66.0, -9.5)
+[09:07:54] [Server thread/INFO]: Dream joined the game
+[09:08:05] [Server thread/INFO]: <Dream> found a village
+[09:08:22] [Server thread/INFO]: Steve fell from a high place
+[09:08:38] [Server thread/INFO]: Alex was slain by Zombie
+[09:08:57] [Server thread/INFO]: Can't keep up! Is the server overloaded? Running 2456ms or 49 ticks behind
+[09:09:14] [Server thread/INFO]: Steve left the game
+[09:09:27] [Server thread/INFO]: Alex left the game
+[09:09:34] [Server thread/INFO]: Dream left the game
+[09:09:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
